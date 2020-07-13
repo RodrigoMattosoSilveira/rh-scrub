@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rh-scrub"
+    }
+  },
+  "defaultProject": "rh-scrub",
+  "cli": {
+    "analytics": "bda0caf7-a45a-45ce-80df-205c61c6a2db"
+  }
 }
